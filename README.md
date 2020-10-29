@@ -1,2 +1,2 @@
-# hello-world
+# Wisdom-Tutorial
 Just another repository
